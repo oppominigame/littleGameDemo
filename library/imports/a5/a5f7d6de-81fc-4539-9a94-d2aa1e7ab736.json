@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "destroy",
+    "texture": "d64a3d02-e87b-4daa-a650-fca410895f96",
+    "atlas": "",
+    "rect": [
+      12,
+      12,
+      181,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

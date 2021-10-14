@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheep_down_1",
+    "texture": "57bed688-e9a3-448b-af7b-64d940589581",
+    "atlas": "",
+    "rect": [
+      32,
+      36,
+      152,
+      103
+    ],
+    "offset": [
+      -6,
+      -8
+    ],
+    "originalSize": [
+      228,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

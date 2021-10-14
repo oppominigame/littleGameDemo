@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pay - 001",
+    "texture": "b7f4a2a7-e097-410f-ae68-ea65c9008d0f",
+    "atlas": "",
+    "rect": [
+      12,
+      18,
+      176,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "package": "com.assets",
+  "name": "assets",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1040",
+  "icon": "/logo.png",
+  "orientation": "portrait",
+  "type": "game",
+  "config": { "logLevel": "off" },
+  "subpackages": [
+    {
+      "name": "index",
+      "root": "Script/utils/index.js"
+    }
+  ]
+}

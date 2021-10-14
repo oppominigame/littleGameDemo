@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheep_jump_2",
+    "texture": "641cc1a2-bddb-4ef4-89e6-b016eea540c0",
+    "atlas": "",
+    "rect": [
+      24,
+      24,
+      160,
+      104
+    ],
+    "offset": [
+      -10,
+      3.5
+    ],
+    "originalSize": [
+      228,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

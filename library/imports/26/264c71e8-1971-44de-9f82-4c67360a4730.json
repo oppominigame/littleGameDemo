@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nativeAd",
+    "texture": "686c3a22-7673-4c83-aba4-f913b3c83320",
+    "atlas": "",
+    "rect": [
+      11,
+      6,
+      178,
+      191
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "portalBox",
+    "texture": "cbdd4c89-7307-43db-b6b3-22a612bbbe39",
+    "atlas": "",
+    "rect": [
+      37,
+      12,
+      126,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "certificatePath": "",
+  "deviceOrientation": "portrait",
+  "disabledMode": "disabled is-disabled",
+  "icon": "/Users/oppo/Projects/minigame/game_obj/littleGame/logo.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1090",
+  "name": "示例",
+  "npmPath": "",
+  "package": "com.vivo.demo",
+  "privatePath": "",
+  "showNpmPath": false,
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "versionCode": "1",
+  "versionName": "1.0.0"
+}

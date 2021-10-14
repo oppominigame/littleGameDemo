@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rewarVideoAd",
+    "texture": "f49cceec-47f7-4e5a-af1b-385115bdaa5f",
+    "atlas": "",
+    "rect": [
+      14,
+      36,
+      173,
+      129
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

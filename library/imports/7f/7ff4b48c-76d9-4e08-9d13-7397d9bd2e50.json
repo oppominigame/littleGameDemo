@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bigAd",
+    "texture": "35ab1839-31dd-4123-bf58-5330005d848d",
+    "atlas": "",
+    "rect": [
+      12,
+      25,
+      176,
+      146
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

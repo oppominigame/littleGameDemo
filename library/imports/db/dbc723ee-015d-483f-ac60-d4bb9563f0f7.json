@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameRecorder",
+    "texture": "9ce634e4-090b-49a7-a364-a43625e65af3",
+    "atlas": "",
+    "rect": [
+      12,
+      48,
+      176,
+      124
+    ],
+    "offset": [
+      0,
+      -10
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

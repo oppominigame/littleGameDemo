@@ -1,0 +1,18 @@
+{
+  "certificatePath": "D:\\workspace\\game-adapter\\games\\littleGame\\assets\\sign\\release\\certificate.pem",
+  "deviceOrientation": "portrait",
+  "disabledMode": "disabled is-disabled",
+  "icon": "/Users/oppo/Projects/minigame/game_obj/littleGame/logo.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1060",
+  "name": "示例",
+  "npmPath": "",
+  "package": "com.oppo.littleGameDemo",
+  "privatePath": "D:\\workspace\\game-adapter\\games\\littleGame\\assets\\sign\\release\\private.pem",
+  "showNpmPath": false,
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "versionCode": "5",
+  "versionName": "2.5.0"
+}

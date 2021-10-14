@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fps",
+    "texture": "7320a0f8-8146-405e-99d6-a1fda5210cef",
+    "atlas": "",
+    "rect": [
+      16,
+      27,
+      160,
+      146
+    ],
+    "offset": [
+      -4,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

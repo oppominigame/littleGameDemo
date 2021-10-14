@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheep_touch_0",
+    "texture": "e18fce76-e8c7-42e4-b4e2-060f5b848a0b",
+    "atlas": "",
+    "rect": [
+      23,
+      1,
+      173,
+      126
+    ],
+    "offset": [
+      -4.5,
+      15.5
+    ],
+    "originalSize": [
+      228,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

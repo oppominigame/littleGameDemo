@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "insertAd",
+    "texture": "54890c43-b574-4e1c-a2a1-b40d6b7bfa14",
+    "atlas": "",
+    "rect": [
+      15,
+      26,
+      172,
+      165
+    ],
+    "offset": [
+      1,
+      -8.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

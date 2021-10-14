@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bannerAd",
+    "texture": "3363f596-5b1d-4bf8-b177-9ac207263e6c",
+    "atlas": "",
+    "rect": [
+      12,
+      35,
+      176,
+      129
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

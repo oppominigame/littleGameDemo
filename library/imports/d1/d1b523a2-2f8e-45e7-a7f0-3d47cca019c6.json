@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "star_slot",
+    "texture": "aac019d5-6adf-4915-bfd1-5f584d8f0daa",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      169,
+      173
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      169,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

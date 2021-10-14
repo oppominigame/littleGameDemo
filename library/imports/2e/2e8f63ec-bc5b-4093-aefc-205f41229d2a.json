@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "voip",
+    "texture": "0d3377ff-5a0e-464c-b6ed-aa26465b06ab",
+    "atlas": "",
+    "rect": [
+      35,
+      12,
+      132,
+      176
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhr",
+    "texture": "3fc7b436-e6d7-49b4-953f-1f9584bde6bb",
+    "atlas": "",
+    "rect": [
+      12,
+      17,
+      176,
+      165
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

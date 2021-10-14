@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "accelerometer",
+    "texture": "57e7b226-c54d-4670-83d1-2ce3cd3ab13c",
+    "atlas": "",
+    "rect": [
+      14,
+      14,
+      171,
+      171
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

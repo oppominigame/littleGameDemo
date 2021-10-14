@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "console",
+    "texture": "af59ec24-bd5b-4931-bdf8-0831fdbacbc9",
+    "atlas": "",
+    "rect": [
+      16,
+      25,
+      168,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

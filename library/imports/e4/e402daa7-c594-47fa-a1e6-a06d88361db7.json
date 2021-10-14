@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shake",
+    "texture": "09c5e2e7-08d3-4be0-b704-4c42dd4bfd9d",
+    "atlas": "",
+    "rect": [
+      10,
+      24,
+      180,
+      152
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

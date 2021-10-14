@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vibrate",
+    "texture": "f701d1df-d58b-410b-9b25-063b8cfeb13d",
+    "atlas": "",
+    "rect": [
+      24,
+      30,
+      152,
+      141
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
